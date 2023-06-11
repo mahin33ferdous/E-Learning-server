@@ -1,0 +1,28 @@
+[
+  
+    {
+        "id": "1",
+        "name": "Meachine Learning"
+    },
+    {
+        "id": "2",
+        "name": "Data science"
+    },
+    {
+        "id": "3",
+        "name": "Artificaill intelligence"
+    },
+    {
+        "id": "4",
+        "name": "App development"
+    },
+    {
+        "id": "5",
+        "name": "Web technology"
+    },
+    {
+        "id": "6",
+        "name": "Network sceurity"
+    }
+  
+]
