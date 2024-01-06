@@ -1,0 +1,257 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+
+       "id": "1",
+      "rating": { "number": 4.5, "badge": "Excellent" ,"vote":2624 },
+      "total_view": 1488,
+      "price":9.88,
+      "language":"English",
+      "content":{"Hours":18,"article":2,"time":"17h 30min","lecture":114},
+      "title": "Machine Learning Applied to Stock & Crypto Trading - Python",
+      "title2":"Use Unsupervised, Supervised and Reinforcement Learning techniques to gain an edge in trading Stocks, Crypto, Forex...",
+      "author": {
+        "name": "Shaun Mcdonogh",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://assets.softkraft.co/wp-content/uploads/2015/11/Photo_big_3.jpg",
+      "details": "Gain an edge in financial trading through deploying Machine Learning techniques to financial data using Python. In this course, you will:Discover hidden market states and regimes using Hidden Markov Models.Objectively group like-for-like ETF's for pairs trading using K-Means Clustering and understand how to capitalise on this using statistical methods like Cointegration and Zscore. Make predictions on the VIX by including a vast amount of technical indicators and distilling just the useful information via Principle Component Analysis (PCA).Use one of the most advanced Machine Learning algorithms, XGBOOST, to make predictions on Bitcoin price data regarding the future.Evaluate performance of models to gain confidence in the predictions being made.Quantify objectively the accuracy, precision, recall and F1 score on test data to infer your likely percentage edge. Develop an AI model to trade a simple sine wave and then move on to learning to trade the Apple stock completely by itself without any prompt for selection positions whatsoever. Build a Deep Learning neural network for both Classification and receive the code for using an LSTM neural network to make predictions on sequential data.Use Python libraries such as Pandas, PyTorch (for deep learning), sklearn and more."
+    },
+    
+    {
+        "_id": "0282e0e58a5c404fbd15261ff11c2ab6b4",
+        
+         "id": "1",
+        "rating": { "number": 4.4, "badge": "Excellent" ,"vote":2533 },
+        "total_view": 1238,
+        "price":9.88,
+        "language":"English",
+        "content":{"Hours":15,"article":3,"time":"14h 45min","lecture":111},
+        "title": "Machine Learning with Imbalanced Data",
+        "title2":"Learn to over-sample and under-sample your data, apply SMOTE, ensemble methods, and cost-sensitive learning",
+        "author": {
+          "name": "soledad galli",
+          "published_date": "2021-04-14 11:20:30",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ytimg.com/vi/583SOiipnQ4/maxresdefault.jpg",
+        "details": "Welcome to Machine Learning with Imbalanced Datasets. In this course, you will learn multiple techniques which you can use with imbalanced datasets to improve the performance of your machine learning models.If you are working with imbalanced datasets right now and want to improve the performance of your models, or you simply want to learn more about how to tackle data imbalance, this course will show you how. We'll take you step-by-step through engaging video tutorials and teach you everything you need to know about working with imbalanced datasets. Throughout this comprehensive course, we cover almost every available methodology to work with imbalanced datasets, discussing their logic, their implementation in Python, their advantages and shortcomings, and the considerations to have when using the technique."
+      },
+
+      {
+        "_id": "0282e0e58a5c404fbd15261hgf11c2ab6b4",
+        
+         "id": "1",
+        "rating": { "number": 4.7, "badge": "Excellent" ,"vote":3551 },
+        "total_view": 1800,
+        "price":5.58,
+        "language":"English",
+        "content":{"Hours":20,"article":4,"time":"19h 15min","lecture":150},
+        "title": "Hyperparameter Optimization for Machine Learning",
+        "title2":"Learn grid and random search, Bayesian optimization, multi-fidelity models, Optuna, Hyperopt, Scikit-Optimize & more.",
+        "author": {
+          "name": "soledad galli",
+          "published_date": "2022-05-13 15:23:27",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://serokell.io/files/73/73vp3oc9.11_(4)_(1).jpg",
+        "details": "Welcome to Hyperparameter Optimization for Machine Learning. In this course, you will learn multiple techniques to select the best hyperparameters and improve the performance of your machine learning models.If you are regularly training machine learning models as a hobby or for your organization and want to improve the performance of your models, if you are keen to jump up in the leader board of a data science competition, or you simply want to learn more about how to tune hyperparameters of machine learning models, this course will show you how. We'll take you step-by-step through engaging video tutorials and teach you everything you need to know about hyperparameter tuning. Throughout this comprehensive course, we cover almost every available approach to optimize hyperparameters, discussing their rationale, their advantages and shortcomings, the considerations to have when using the technique and their implementation in Python."
+         },
+       {
+        "_id": "454656768fgf8e0e58a5c40bd152612f11c2ab6a",
+    
+        "id": "2",
+        "rating": { "number": 4.3, "badge": "Excellent","vote":2002 },
+        "total_view": 1299,
+        "price":9.58,
+        "language":"English",
+        "content":{"Hours":20,"article":2,"time":"16h 15min","lecture":102},
+        "title": "Master Artificial Intelligence 2022 : Build 6 AI Projects",
+        "title2":"Learn Artificial Intelligence with Python. Create Advanced Artificial Intelligence (AI) Applications with Python",
+        "author": {
+          "name": "Shams waly",
+          "published_date": "2020-08-24 17:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://i.ytimg.com/vi/7V_AebZFlpo/maxresdefault.jpg",
+        "details": "Are you ready to master Artificial Intelligence skills? Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. It is the simulation of natural intelligence in machines that are programmed to learn and mimic the actions of humans. These machines are able to learn with experience and perform human-like tasks. As technologies such as AI continue to grow, they will have a great impact on our quality of life. Artificial intelligence (AI) is one of the top tech fields to be in right now! Financial institutions, legal institutions, media companies, and insurance companies are all figuring out ways to use artificial intelligence (ai) to their advantage. From fraud detection to writing news stories with natural language processing(NLP) and reviewing law briefs, AI’s reach is extensive. If you want to build super-powerful applications in artificial intelligence(ai). Then, you are at the right place."
+    },
+    
+    {
+        "_id": "454656768f466f8e0e58a5c40bd152612f11c2ab6a",
+    
+        "id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent","vote":2442 },
+        "total_view": 1499,
+        "price":4.88,
+        "language":"English",
+        "content":{"Hours":22,"article":3,"time":"16h 15min","lecture":162},
+        "title": "Artificial Intelligence A-Z™ 2023: Build an AI with ChatGPT4",
+        "title2":"Combine the power of Data Science, Machine Learning and Deep Learning to create powerful AI for Real-World applications!",
+        "author": {
+          "name": "Shams waly",
+          "published_date": "2023-08-24 16:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://c8.alamy.com/comp/2MPJ49K/gpt4-improved-chatbot-illustrations-artificial-intelligence-chatbotchat-gpt-4-illustration-for-banner-flyer-template-2MPJ49K.jpg",
+        "details": "Learn to code self-improving AI for a range of purposes. In fact, we code together with you. Every tutorial starts with a blank page and we write up the code from scratch.Are you ready to master Artificial Intelligence skills? Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. It is the simulation of natural intelligence in machines that are programmed to learn and mimic the actions of humans. These machines are able to learn with experience and perform human-like tasks. As technologies such as AI continue to grow, they will have a great impact on our quality of life. Artificial intelligence (AI) is one of the top tech fields to be in right now! Financial institutions, legal institutions, media companies, and insurance companies are all figuring out ways to use artificial intelligence (ai) to their advantage. From fraud detection to writing news stories with natural language processing(NLP) and reviewing law briefs, AI’s reach is extensive. If you want to build super-powerful applications in artificial intelligence(ai). Then, you are at the right place."
+    },
+
+
+
+                
+      {
+        "_id": "05445458a5c404fbd15261f112c2ab6a",
+     
+        "id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent","vote":1444  },
+        "total_view": 1743,
+        "price":5.68,
+        "language":"English",
+        "content":{"Hours":24,"article":4,"time":"15h 15min","lecture":164},
+        "title": "2023 Beginner's guide to Cyber Security",
+        "title2":"Learn the Essentials of Cybersecurity: Protect Yourself Online from the Latest Threats with Our Expert Guide. #2023",
+        "author": {
+          "name": "Nathan house",
+          "published_date": "2023-05-24 14:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://www.food-safety.com/ext/resources/Images/2023/Apr_May/Cyber-Img1-900.jpg?1681140266",
+        "details": "Are you ready to take your online safety to the next level? Look no further than our ultimate Cyber Security course for beginners! With over 15 years of experience in the field, we're thrilled to share our expertise with those who are new to the world of Cyber Security or simply want to brush up on the latest trends and threats. We've even included a 2023 update on ChatGPT cybersecurity-related topics! Our course is designed to provide you with a comprehensive overview of the fundamentals, mixed with real-life scenarios and practical tips and tricks to protect against different types of attacks. We respect your time and have condensed the most important information into bite-sized lectures, so you can learn efficiently and effectively."
+         },
+        
+         {
+            "_id": "05445458a5c404fbd15261f112c2ab6a",
+         
+            "id": "3",
+            "rating": { "number": 4.5, "badge": "Excellent","vote":1444  },
+            "total_view": 1743,
+            "price":6.88,
+            "language":"English",
+            "content":{"Hours":24,"article":4,"time":"15h 15min","lecture":164},
+            "title": "The Complete Cyber Security Course : Network Security!",
+            "title2":"Volume 2 : Network Security, WiFi Security, WiFi Hackers, Firewalls, Wireshark, Secure Networking. + Password Managers",
+            "author": {
+              "name": "Nathan house",
+              "published_date": "2022-05-24 14:27:34",
+              "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            },
+            "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+            "image_url": "https://securuscomms.co.uk/wp-content/uploads/2022/10/Cybersecurity-Terms-image.jpg",
+            "details": "After this course, you will be able to discover security vulnerabilities across an entire network, by using network hacking techniques and vulnerability scanning.u will be able to architect your network for maximum security and prevent local and remote attacks. We also cover the use of custom router firmware to provide you with better network security services.Are you ready to take your online safety to the next level? Look no further than our ultimate Cyber Security course for beginners! With over 15 years of experience in the field, we're thrilled to share our expertise with those who are new to the world of Cyber Security or simply want to brush up on the latest trends and threats. We've even included a 2023 update on ChatGPT cybersecurity-related topics! Our course is designed to provide you with a comprehensive overview of the fundamentals, mixed with real-life scenarios and practical tips and tricks to protect against different types of attacks. We respect your time and have condensed the most important information into bite-sized lectures, so you can learn efficiently and effectively."
+             }, 
+
+      {
+        "_id": "02666666658a5c404fbd15261f112c2ab6a",
+      
+        "id": "4",
+        "rating": { "number": 4.5, "badge": "Excellent","vote":1766  },
+        "total_view": 1488,
+        "price":4.88,
+        "language":"English",
+        "content":{"Hours":14,"article":4,"time":"11h 15min","lecture":104},
+        "title": "Software Development From A to Z - OOP, UML, Agile, Python",
+        "title2":"Learn about software development, OOP, UML, Agile, SCRUM, Python. Get insights into the software development industry.",
+        "author": {
+          "name": "korely nyisztor",
+          "published_date": "2022-03-15 14:27:34",
+          "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+        "image_url": "https://openxcell.com/wp-content/uploads/2021/06/developing-programmer-development-website-design-coding-technologies.png",
+        "details": "Software Development From A to Z is an informative course that provides insights into the software development industry. It covers topics such as Object-Oriented Programming, UML, Agile, SCRUM, and Python. You’ll learn about all of these things from a developer with decades of experience in the field.Whether you're just starting with your career or wanting to learn more about what goes on behind the scenes at companies like Google and Apple, this course is definitely worth checking out! Join us as we discuss everything related to software development! You'll leave with knowledge that will enable you to dive deeper into software development. No prior programming experience is required."
+         },
+
+         {
+            "_id": "06566556658a5c404fbd15261f112c2ab6a",
+          
+            "id": "4",
+            "rating": { "number": 4.3, "badge": "Excellent","vote":1897  },
+            "total_view": 1567,
+            "price":7.88,
+            "language":"English",
+            "content":{"Hours":24,"article":5,"time":"14h 15min","lecture":144},
+            "title": "Software Development: Better Requirements Gathering Skills",
+            "title2":"Boost Your Software Requirements Gathering Skills Today! Learn The Techniques That Work!",
+            "author": {
+              "name": "Robin slee",
+              "published_date": "2022-05-16 14:27:34",
+              "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+            },
+            "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+            "image_url": "https://themindstudios.com/blog/content/images/2019/07/Why-Are-Requirements-Important-in-Software-Engineering.jpg",
+            "details": "Whether you are a software developer, architect, project manager or just someone who codes for fun; knowing what to write is just as hard as knowing how to write it. 'Software requirements gathering' is the process of capturing the objectives, goals and wishes of the customer upfront and early-on in the Software Development Life Cycle (SDLC).Software Development From A to Z is an informative course that provides insights into the software development industry. It covers topics such as Object-Oriented Programming, UML, Agile, SCRUM, and Python. You’ll learn about all of these things from a developer with decades of experience in the field.Whether you're just starting with your career or wanting to learn more about what goes on behind the scenes at companies like Google and Apple, this course is definitely worth checking out! Join us as we discuss everything related to software development! You'll leave with knowledge that will enable you to dive deeper into software development. No prior programming experience is required."
+             },
+
+             {
+                "_id": "57567666658a5c404fbd15261f112c2ab6a",
+              
+                "id": "5",
+                "rating": { "number": 4.2, "badge": "Excellent","vote":1567  },
+                "total_view": 1567,
+                "price":6.48,
+                "language":"English",
+                "content":{"Hours":24,"article":5,"time":"14h 15min","lecture":144},
+                "title": "The Data Science Course: Complete Data Science Bootcamp",
+                "title2":"Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+                "author": {
+                  "name": "Robin slee",
+                  "published_date": "2022-05-16 14:27:34",
+                  "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+                },
+                "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+                "image_url": "https://c8.alamy.com/comp/W2DYEA/data-science-artificial-intelligence-concept-futuristic-supercomputer-background-W2DYEA.jpg",
+                "details": "Big data, business intelligence, business analytics, machine learning and artificial intelligence. We know these buzzwords belong to the field of data science but what do they all mean? Why learn it? As a candidate data scientist, you must understand the ins and outs of each of these areas and recognise the appropriate approach to solving a problem. This ‘Intro to data and data science’ will give you a comprehensive look at all these buzzwords and where they fit in the realm of data science. "     
+            }, 
+         
+      
+            {
+                "_id": "575676655656558a5c404fbd15261f112c2ab6a",
+              
+                "id": "5",
+                "rating": { "number": 4.2, "badge": "Excellent","vote":1567  },
+                "total_view": 1567,
+                "price":3.88,
+                "language":"English",
+                "content":{"Hours":24,"article":5,"time":"14h 15min","lecture":144},
+                "title": "Statistics for Data Science and Business Analysis",
+                "title2":"Statistics you need in the office: Descriptive & Inferential statistics, Hypothesis testing, Regression analysis",
+                "author": {
+                  "name": "Robin slee",
+                  "published_date": "2022-05-16 14:27:34",
+                  "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+                },
+                "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+                "image_url": "https://successive.cloud/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png",
+                "details": "Big data, business intelligence, business analytics, machine learning and artificial intelligence. We know these buzzwords belong to the field of data science but what do they all mean? Why learn it? As a candidate data scientist, you must understand the ins and outs of each of these areas and recognise the appropriate approach to solving a problem. This ‘Intro to data and data science’ will give you a comprehensive look at all these buzzwords and where they fit in the realm of data science. "     
+            }, 
+
+            {
+                "_id": "557575666658a5c404fbd15261f112c2ab6a",
+              
+                "id": "6",
+                "rating": { "number": 4.2, "badge": "Excellent","vote":1567  },
+                "total_view": 1567,
+                "price":7.88,
+                "language":"English",
+                "content":{"Hours":24,"article":5,"time":"14h 15min","lecture":144},
+                "title": "Statistics for Data Science and Business Analysis",
+                "title2":"Statistics you need in the office: Descriptive & Inferential statistics, Hypothesis testing, Regression analysis",
+                "author": {
+                  "name": "Robin slee",
+                  "published_date": "2022-05-16 14:27:34",
+                  "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+                },
+                "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+                "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+                "details": "Big data, business intelligence, business analytics, machine learning and artificial intelligence. We know these buzzwords belong to the field of data science but what do they all mean? Why learn it? As a candidate data scientist, you must understand the ins and outs of each of these areas and recognise the appropriate approach to solving a problem. This ‘Intro to data and data science’ will give you a comprehensive look at all these buzzwords and where they fit in the realm of data science. "     
+            } 
+     
+]

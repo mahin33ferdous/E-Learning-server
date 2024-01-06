@@ -2,27 +2,34 @@
   
     {
         "id": "1",
-        "name": "Meachine Learning"
+        "name": "Meachine Learning",
+        "img":"https://miro.medium.com/v2/resize:fit:1358/1*cG6U1qstYDijh9bPL42e-Q.jpeg"
     },
     {
         "id": "2",
-        "name": "Data science"
+        "name": "Artificaill intelligence",
+        "img": "https://assets.bitdegree.org/online-learning-platforms/storage/media/data%20science-5ffc4aee228a9.o.jpg"
     },
     {
         "id": "3",
-        "name": "Artificaill intelligence"
+        "name": "Cyber sceurity",
+        "img":"https://blog.commlabindia.com/wp-content/uploads/2019/05/artificial-learning-elearning-infographic-1.jpg"
+
     },
     {
         "id": "4",
-        "name": "App development"
+        "name": "Software development",
+        "img":"https://blog.commlabindia.com/wp-content/uploads/2019/05/artificial-learning-elearning-infographic-1.jpg"
     },
     {
         "id": "5",
-        "name": "Web technology"
+        "name": "Data science",
+        "img": "https://st4.depositphotos.com/22162388/23954/i/600/depositphotos_239549088-stock-photo-cyber-security-data-protection-information.jpg"
     },
     {
         "id": "6",
-        "name": "Network sceurity"
+        "name": "Network sceurity",
+        "img":"https://st4.depositphotos.com/22162388/23954/i/600/depositphotos_239549088-stock-photo-cyber-security-data-protection-information.jpg"
     }
   
 ]
